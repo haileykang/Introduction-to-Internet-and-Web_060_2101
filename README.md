@@ -1,10 +1,21 @@
 # Introduction-to-Internet-and-Web_060_2101
 ## 인터넷과웹기초_060분반(21년 1학기)
+> QnA 및 공지를 위한 공개 저장소입니다
+
+
+## 질의응답 방법
+
+1. 본 저장소의 [Issues 탭](https://github.com/haileykang/Introduction-to-Internet-and-Web_060_2101/issues)으로 들어갑니다.
+2. 나와 같은 질문이 있는지 검색을 먼저 해봅니다. 해결된 질문은 보통 `Closed` 상태이므로 아래의 'Closed' 버튼을 눌러 [닫힌 이슈](https://github.com/haileykang/Introduction-to-Internet-and-Web_060_2101/issues?q=is%3Aissue+is%3Aclosed)를 검색해 주세요.
+3. 원하는 대답을 찾지 못하였다면 [New issue 버튼](https://github.com/haileykang/Introduction-to-Internet-and-Web_060_2101/issues/new)을 눌러 포맷에 맞게 질문을 합니다.
+4. 학생 여러분들도 이슈에 답변 또는 의견을 자유롭게 제시해 주세요.
+5. 이슈 양식은 [샘플 Issue 양식](https://github.com/haileykang/Introduction-to-Internet-and-Web_060_2101/issues/1)를 참고해 주세요.
+
 
 - 이 곳은 혼자서는 해결하지 못한 오류나 질문이 있을 때, 질문을 하는 공간입니다.
 - 참고로 검색엔진을 이용하면 1분 안에 원하는 검색결과를 얻을 수 있습니다. 
-- 검색과 질문은 코딩의 일부입니다.
-- 아래 질문의 기술을 읽고, 기본적인 검색 후에도 해결되지 않을 때 Issue를 생성하여 질문하길 바랍니다 :)
+- 검색과 질문은 코딩의 일부입니다. 아래 질문의 기술을 참고하여 기본적인 검색을 해보신 후, 해결되지 않을 때 Issue를 생성하여 질문하길 바랍니다 :)
+
 
 ### 질문의 기술	
 - 질문 전에 검색을 먼저 해보세요.
@@ -23,7 +34,6 @@
 - 보다 많은 분들에게 도움을 드리기 위해서 하나의 질문에 최대 10분을 사용합니다. 
 - 학생들끼리 질문을 주고 받는 것은 언제든지 권장됩니다.
 
-이제 질문하러 갑시다!
-https://github.com/haileykang/Introduction-to-Internet-and-Web_060_2101/issues
-
-<img width="793" alt="스크린샷 2021-03-29 오후 5 41 08" src="https://user-images.githubusercontent.com/59238310/112811308-e546c480-90b6-11eb-888d-96992281ff21.png">
+---
+<img width="576" alt="스크린샷 2021-03-29 오후 5 41 08" src="https://user-images.githubusercontent.com/59238310/112811308-e546c480-90b6-11eb-888d-96992281ff21.png">
+---
