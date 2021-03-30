@@ -6,7 +6,7 @@ QnA 및 공지를 위한 공개 저장소입니다. <br>
 
 1. 본 저장소의 [Issues 탭](https://github.com/haileykang/Introduction-to-Internet-and-Web_060_2101/issues)으로 들어갑니다.
 2. 나와 같은 질문이 있는지 검색을 먼저 해봅니다. 해결된 질문은 보통 `Closed` 상태이므로 아래의 'Closed' 버튼을 눌러 [닫힌 이슈](https://github.com/haileykang/Introduction-to-Internet-and-Web_060_2101/issues?q=is%3Aissue+is%3Aclosed)를 검색해 주세요.
-3. 원하는 대답을 찾지 못하였다면 [New issue 버튼](https://github.com/haileykang/Introduction-to-Internet-and-Web_060_2101/issues/new)을 누른 후,
+3. 원하는 대답을 찾지 못하였다면 [New issue 버튼]을 누른 후,
    [Get Started 버튼](https://github.com/haileykang/Introduction-to-Internet-and-Web_060_2101/issues/new/choose)를 선택하여 포맷에 맞게 질문을 합니다.
 4. 학생 여러분들도 이슈에 답변 또는 의견을 자유롭게 제시해 주세요.
 
