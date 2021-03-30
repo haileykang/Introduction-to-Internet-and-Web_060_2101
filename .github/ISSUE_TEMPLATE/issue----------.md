@@ -1,5 +1,5 @@
 ---
-name: 'Issue: 기술 질문 채널'
+name: 'Issue: 질문 채널'
 about: 공부 & 프로젝트를 하면서 막히는 부분을 도와드립니다.
 title: ''
 labels:
