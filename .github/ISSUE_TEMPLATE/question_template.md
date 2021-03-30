@@ -19,7 +19,6 @@ assignees:
 
 ## 3. 스크린샷
 실습 당시의 상황을 스크린 샷등을 이용해 첨부해 주시면 더욱 좋습니다.이슈 생성후 이미지를 드래그앤드롭을 하면 삽입할 수 있습니다.
-![1](https://user-images.githubusercontent.com/59238310/112935319-7c1a8c00-915e-11eb-9f17-718216c29f29.gif)
 <br>github 이미지 업로드 참고: https://worthpreading.tistory.com/83
 
 
