@@ -19,8 +19,7 @@ assignees:
 
 ## 3. 스크린샷
 실습 당시의 상황을 스크린 샷등을 이용해 첨부해 주시면 더욱 좋습니다. <br>
-본 저장소의 [README.md](https://github.com/haileykang/Introduction-to-Internet-and-Web_060_2101/blob/main/README.md)파일을 참고하여 스크린샷을 첨부해보세요.
-
+본 저장소의 README.md 파일을 참고하여 스크린샷을 첨부해보세요.([참고블로그](https://worthpreading.tistory.com/83))
 
 ## 4. 코드 혹은 오류
 ```
