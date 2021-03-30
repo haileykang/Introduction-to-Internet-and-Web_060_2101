@@ -6,10 +6,19 @@ QnA 및 공지를 위한 공개 저장소입니다. <br>
 
 1. 본 저장소의 [Issues 탭](https://github.com/haileykang/Introduction-to-Internet-and-Web_060_2101/issues)으로 들어갑니다.
 2. 나와 같은 질문이 있는지 검색을 먼저 해봅니다. 해결된 질문은 보통 `Closed` 상태이므로 아래의 'Closed' 버튼을 눌러 [닫힌 이슈](https://github.com/haileykang/Introduction-to-Internet-and-Web_060_2101/issues?q=is%3Aissue+is%3Aclosed)를 검색해 주세요.
-3. 원하는 대답을 찾지 못하였다면 [New issue 버튼]을 누른 후,
-   [Get Started 버튼](https://github.com/haileykang/Introduction-to-Internet-and-Web_060_2101/issues/new/choose)를 선택하여 포맷에 맞게 질문을 합니다.
+3. 원하는 대답을 찾지 못하였다면 다시 [Issues 탭](https://github.com/haileykang/Introduction-to-Internet-and-Web_060_2101/issues)로 들어가서,<br>
+   **New issue 버튼**을 누른 후, '질문채널'의 [Get Started 버튼](https://github.com/haileykang/Introduction-to-Internet-and-Web_060_2101/issues/new/choose)를 선택하여 포맷에 맞게 질문을 합니다.
 4. 학생 여러분들도 이슈에 답변 또는 의견을 자유롭게 제시해 주세요.
 
+## 스크린샷 첨부 방법
+질문할 때, 이미지 업로드가 필요할 경우에는
+1. 새로운 이슈 생성후 본인의 컴퓨터에서 첨부하고자 하는 이미지를 드래그앤드롭 합니다.
+2. 약 10초 후에 새로운 경로가 생성되어 이를 그대로 복사하여 삽입할 수 있습니다.
+![1](https://user-images.githubusercontent.com/59238310/112935319-7c1a8c00-915e-11eb-9f17-718216c29f29.gif)
+
+<br>github 이미지 업로드 참고: https://worthpreading.tistory.com/83
+
+<br>
 ## 질문의 기술	
 - 질문 전에 검색을 먼저 해보세요. 검색엔진을 이용하면 1분 안에 원하는 검색결과를 얻을 수 있습니다. 
 - 검색과 질문은 코딩의 일부입니다. 
